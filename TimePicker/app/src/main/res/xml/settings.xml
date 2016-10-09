@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <EditTextPreference
+            android:key="editTextPref_Key"
+            android:title="I dont know"/>
+        <com.whiteyolk.nishantr.timepicker.TimePreference
+            android:key="timePrefA_Key"
+            android:title="Suckends"/>
+        <com.whiteyolk.nishantr.timepicker.TimePreference
+            android:key="timePrefB_Key"
+            android:title="Mins"/>
+
+</PreferenceScreen>
